@@ -41,6 +41,7 @@ cursor: url(../img/Pointer.png), auto;
 	bottom: 90px;
 	right: 60px;
 	box-shadow: 0 2px 20px 0 rgba(0,0,0,0.22);
+	box-shadow: 0 2px 20px 0#3fa37db4;
 	background:white;
 	padding: 5px 10px;
 	display: none;
